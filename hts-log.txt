@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Jun 2021 14:31:32 at http://d.playalotgames.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://d.playalotgames.com/ -O1 "H:\ProgrammingHero\downloaded from others\PlayALotGame" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:31:57	Error: 	"Not Found" (404) at link d.playalotgames.com/blog.html (from d.playalotgames.com/)
+14:31:57	Error: 	"Not Found" (404) at link d.playalotgames.com/itms-services://?action=download-manifest&url=https://d1.playalotgames.com/product/XEGamev3.plist (from d.playalotgames.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 43 links scanned, 40 files written (1001695 bytes overall) [553088 bytes received at 18436 bytes/sec], 609939 bytes transferred using HTTP compression in 11 files, ratio 22%, 10.7 requests per connection
+(2 errors, 0 warnings, 0 messages)
